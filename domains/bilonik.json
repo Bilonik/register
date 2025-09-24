@@ -1,0 +1,10 @@
+{
+  "description": "Bilonik portfolio",
+  "repo": "https://github.com/bilonik",
+  "owner": {
+    "username": "bilonik"
+  },
+  "record": {
+    "CNAME": "bilonik.github.io"
+  }
+}
